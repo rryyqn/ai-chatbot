@@ -2,7 +2,7 @@
 
 # AI Chatbot Template
 
-A modern, customizable AI chatbot built with Next.js, Vercel AI SDK, and Google Gemini. Features include rate limiting, bot protection, and a beautiful UI.
+A modern, customizable AI chatbot built with Next.js, Vercel AI SDK, and Google Gemini. Features include rate limiting, bot protection, and a beautiful UI. Read my learnings from this project at https://rryyqn.com/projects/ai-chatbot
 
 <img width="960" height="540" alt="ai-chatbot" src="https://github.com/user-attachments/assets/d96cc13b-f675-41d6-b955-1335484e1e43" />
 
@@ -178,6 +178,4 @@ A: Set the `NEXT_PUBLIC_APP_URL` in your `.env` to your deployed URL, eg. `ai-ch
 
 MIT License - feel free to use this template for your projects!
 
----
 
-**Happy coding!** 🎉
